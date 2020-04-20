@@ -20,5 +20,5 @@ jobs:
     - name: 'Upload AAR to Artifacts'
       uses: actions/upload-artifact@v1.0.0
       with:
-        name: magicalexoplayer-release.aar
-        path: library/build/outputs/aar/library-release.aar
+        name: coronaoutbreak.aar
+        path: coronaoutbreak/build/outputs/aar/coronaoutbreak-release.aar
